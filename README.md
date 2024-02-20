@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**dashapetr/dashapetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🔍 Data Scientist with a focus on NLP/Classical ML and a track record of delivering data-driven solutions. Over 4 years of experience in Data Science and more than 5 years in project management, adept at understanding end-users' business needs.
+🔍 I am a Data Scientist with a focus on NLP/Classical ML and a track record of delivering data-driven solutions. Over 4 years of experience in Data Science and more than 5 years in project management, adept at understanding end-users' business needs.
 
 🎓 As a mentor for Data Specialists, I specialize in sharpening AWS cloud skills, empowering professionals to tackle challenges intelligently and excel in their roles. Coming from a non-developer background, I've personally experienced the journey of learning cloud computing from scratch.
 
@@ -28,5 +25,3 @@ I am dedicated to fostering knowledge sharing within the community, helping othe
 Recent work:
 - [PyCon Portugal speaker](https://pretalx.evolutio.pt/pycon-pt-2023/speaker/MQF8UQ/)
 - [AWS Community Builders AI Hackathon winner](https://dev.to/aws-builders/language-whisperer-aiml-transformer-tools-hackathon-i9a)
--->
-
