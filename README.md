@@ -17,8 +17,11 @@ I am dedicated to fostering knowledge sharing within the community, helping othe
 
 
 📺 Follow me on YouTube: [@daryapetrashka](https://www.youtube.com/@daryapetrashka)
+
 📱 TikTok: [@darya_petrashka](https://www.tiktok.com/@darya_petrashka?lang=el-GR)
+
 ✍ Medium: [@darya_petrashka](https://medium.com/@darya_petrashka)
+
 💼 LinkedIn: [daryapetrashka](https://www.linkedin.com/in/daryapetrashka/)
 
 
