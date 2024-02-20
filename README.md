@@ -8,6 +8,7 @@
 I am dedicated to fostering knowledge sharing within the community, helping others enhance their AWS skills.
 
 💡 Passionate about unlocking the potential of data, my goal is to make data useful and impactful. I believe in the transformative power of AI to improve lives and achieve remarkable goals.
+
 ----------------------------------------------------------------------------------------
 👩‍💻 Currently:
 - Senior Data Scientist at SLB
