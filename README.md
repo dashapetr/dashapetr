@@ -34,5 +34,6 @@ Follow me:
 Recent work:
 
 - [AWS Blog Post: Optimize Your Supply Chain Processes with Generative AI on AWS](https://aws.amazon.com/blogs/industries/optimize-your-supply-chain-processes-with-generative-ai-on-aws/)
+- [JAWS Pankration 2024 talk "Building an AI chat assistant with Amazon Bedrock agent"](https://jawspankration2024.jaws-ug.jp/en/timetable/TT-49/)
 - [PyCon Portugal speaker](https://pretalx.evolutio.pt/pycon-pt-2023/speaker/MQF8UQ/)
 - [AWS Community Builders AI Hackathon winner](https://dev.to/aws-builders/language-whisperer-aiml-transformer-tools-hackathon-i9a)
